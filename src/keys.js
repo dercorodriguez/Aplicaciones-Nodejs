@@ -8,17 +8,3 @@ module.exports = {
     }
 };
 
-
-
-// Coneccion a base de datos SQL
-/*
-module.exports = {
-    conf_dbconnect: {
-        user: 'sa',
-        password: '123456',
-        server: '192.168.0.11',
-        port: 1433,
-        database: 'links'
-    }
-};
-*/
